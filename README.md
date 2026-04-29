@@ -33,7 +33,3 @@ Tenho como objetivo evoluir constantemente, aplicando boas práticas, arquitetur
 ## 📫 Contato
 📧 *pedroarlyx7@gmail.com*
 
----
-
-### ✔ Perfil focado, limpo e profissional.
-
