@@ -12,21 +12,39 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <br/>
 
-##  Competências Técnicas
+## 🚀 Competências Técnicas
 
-| | |
-|---|---|
-| **Linguagens** | JavaScript, TypeScript |
-| **Front-end** | React, Next.js, TailwindCSS |
-| **Back-end** | Node.js, APIs REST |
-| **Ferramentas** | Git, GitHub, VS Code |
-| **Boas práticas** | Clean Code, Versionamento, Componentização, Documentação |
+**Linguagens**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-3F3F46?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3F3F46?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-3F3F46?style=flat-square&logo=openjdk&logoColor=white" />
 
-<div align="center">
+**Front-end**
+<br/>
+<img src="https://img.shields.io/badge/React-3F3F46?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-3F3F46?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-3F3F46?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark" alt="Skills" />
+**Back-end**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-3F3F46?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-3F3F46?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs%20REST-3F3F46?style=flat-square" />
 
-</div>
+**Ferramentas**
+<br/>
+<img src="https://img.shields.io/badge/Git-3F3F46?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-3F3F46?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-3F3F46?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-3F3F46?style=flat-square&logo=intellijidea&logoColor=white" />
+
+**Boas práticas**
+<br/>
+<img src="https://img.shields.io/badge/Clean%20Code-3F3F46?style=flat-square" />
+<img src="https://img.shields.io/badge/Versionamento-3F3F46?style=flat-square" />
+<img src="https://img.shields.io/badge/Componentiza%C3%A7%C3%A3o-3F3F46?style=flat-square" />
+<img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-3F3F46?style=flat-square" />
 
 <br/>
 
@@ -43,8 +61,9 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroArlyx&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=71717A&icon_color=A1A1AA&text_color=A1A1AA" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroArlyx&layout=compact&hide_border=true&bg_color=00000000&title_color=71717A&text_color=A1A1AA" height="165" />
+<img src="https://img.shields.io/github/followers/PedroArlyx?style=for-the-badge&logo=github&logoColor=white&color=3F3F46&label=Seguidores" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PedroArlyx&label=Reposit%C3%B3rios&query=$.public_repos&style=for-the-badge&logo=github&logoColor=white&color=3F3F46" />
+<img src="https://img.shields.io/github/last-commit/PedroArlyx/PedroArlyx?style=for-the-badge&logo=github&logoColor=white&color=3F3F46&label=%C3%9Altimo%20commit" />
 
 </div>
 
