@@ -12,7 +12,7 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <br/>
 
-## 🚀 Competências Técnicas
+##  Competências Técnicas
 
 **Linguagens**
 <br/>
@@ -48,7 +48,7 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <br/>
 
-## 📌 O que estou buscando
+##  O que estou buscando
 
 - Consolidar minha carreira como desenvolvedor
 - Construir projetos reais e profissionais
@@ -57,7 +57,7 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <br/>
 
-## 📈 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Sou desenvolvedor focado em criar **soluções eficientes, escaláveis e de alta
 
 <br/>
 
-## 📫 Contato
+##  Contato
 
 <div align="center">
 
